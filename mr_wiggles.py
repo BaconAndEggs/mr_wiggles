@@ -15,6 +15,7 @@ print('Now we have moved it to {0}'.format(
 mouse.move(30, 0)
 
 print('Doin my wiggles!')
+print('ctl+c when you are done wigglin...')
 
 while True:
     # Move pointer relative to current position
